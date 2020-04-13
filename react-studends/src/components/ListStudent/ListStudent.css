@@ -1,0 +1,7 @@
+.student_wapper > table  {
+    text-align: center;
+}
+
+.student_table__button {
+    width: 200px !important;
+}

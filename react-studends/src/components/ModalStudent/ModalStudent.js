@@ -38,7 +38,6 @@ const ModalStudent = forwardRef((props, ref) => {
             address: '',
         }));
     };
-
     const inputHandlerChange = (e) => {
         const {name , value} = e.target;
         setFormInput( prevState => ({
